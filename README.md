@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #0077b5;">Engr. Muhammad Ijaz</h1>
+<h1 align="center" style="color: #0077b5;">Muhammad Ijaz</h1>
 
 <h3 align="center"> RISC-V | FPGA | Digital System Design | Embedded Systems | IoT | Smart Healthcare </h3>
 
@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My focus is on integrating biomedical sensors with custom RISC-V cores for real-time health analysis and monitoring.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skilled in Verilog, SystemVerilog, Embedded C, Python, and RISC-V Assembly for hardware-software co-design.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experienced with FPGA tools like Vivado, QuestaSim, and ModelSim for design and simulation.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📩 Reach me at: **muhammadijaz.ee@gmail.com** for collaboration opportunities in FPGA, RISC-V, and IoT projects.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📩 Reach me at: **muhammadijaz5900307@gmail.com** for collaboration opportunities in FPGA, RISC-V, and IoT projects.
 
 ---
 
@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/Verilator-00BFFF?style=for-the-badge&logo=openaccess&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-FF5722?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" />
   <img src="https://img.shields.io/badge/Proteus-006699?style=for-the-badge&logo=proteus&logoColor=white" />
 </p>  
 
@@ -52,21 +51,14 @@
 
 ### Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammadijaz-ee" target="blank">
+  <a href="https://www.linkedin.com/in/muhammad-ijaz-60955b36b/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@ijaz-engineering" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:muhammadijaz.ee@gmail.com" target="blank">
+  <a href="mailto:muhammadijaz5900307@gmail.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="35" width="35" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/temp-link" target="blank">
+  <a href="https://discord.com/ijaz590" target="blank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Discord" height="35" width="35" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://reddit.com/temp-link" target="blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="Reddit" height="35" width="35" />
-  </a>
 </p>
 
 ---
